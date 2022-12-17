@@ -1,1 +1,1 @@
-# Leetcode-Solution-using-C-Programing---Embedded-Pratices
+# Leetcode-Solution-using-C-Programing-Embedded-Pratices
